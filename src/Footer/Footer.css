@@ -1,0 +1,114 @@
+.footer-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+    color: rgb(88, 44, 79);
+    border-top: 1px solid rgba(128, 130, 134, 0.26);
+    color: rgb(88, 44, 79);
+    padding-top: 5px;
+}
+
+.navs {
+    display: flex;
+    width: 85%;
+
+}
+
+.lists {
+    line-height: 2.5;
+}
+
+.lists li {
+    list-style-type: none;
+}
+
+.lists li:hover {
+    cursor: pointer;
+    color: #b69355;
+}
+
+.percent {
+    width: 25%;
+}
+
+.heading {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.subscribe {
+    background-color: rgb(88, 44, 79);
+    color: white;
+    padding: 0px 12px 0px 12px;
+}
+
+.social {
+
+    display: flex;
+    gap: 12px;
+}
+
+.social img {
+    height: 37px;
+    width: 37px;
+}
+
+.awards {
+    display: flex;
+    margin-top: 10px;
+    gap: 30px;
+}
+
+.atext {
+    font-size: 10px;
+    color: rgb(88, 44, 79);
+}
+
+.bline {
+    width: 100%;
+    border-top: 1px solid rgba(128, 130, 134, 0.26);
+    color: rgb(88, 44, 79);
+    padding-top: 5px;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    width: 72%;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    font-size: 10px;
+    margin-bottom: 18px;
+}
+
+.link {
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+}
+
+/* #myBtn {
+    position: fixed;
+    bottom: 50%;
+    border: none;
+    float: right;
+    right: 1%;
+    max-width: 30px;
+    z-index: 2;
+}
+
+#myBtn a {
+    text-decoration: none;
+    color: black;
+}
+
+a img {
+    height: 25px;
+    width: 24px;
+} */

@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+button:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+input:focus-within {
+    outline: none;
+}

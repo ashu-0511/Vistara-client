@@ -1,0 +1,9 @@
+.owl {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#owl-wrapper {
+    width: 88%;
+}

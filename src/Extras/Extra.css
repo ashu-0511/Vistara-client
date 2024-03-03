@@ -1,0 +1,46 @@
+.mostlist {
+    display: grid;
+    width: 90%;
+    gap: 12px;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(5, ifr);
+
+}
+
+.mostlist li {
+    background-color: #ededed;
+    color: rgb(88, 44, 79);
+    border: 0.5px solid #B5A1B1;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 4px 6px;
+    list-style-type: none;
+    text-align: center;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.mostlist li:hover {
+    text-decoration: underline rgb(88, 44, 79);
+}
+
+.mostsearch {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toptext {
+    margin: 0 5px 0 0;
+    font-size: 11px;
+    flex-basis: 12%;
+    font-weight: 600;
+}
+
+.extras {
+    display: flex;
+    justify-content: center;
+    color: rgb(88, 44, 79);
+
+}

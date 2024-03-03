@@ -1,0 +1,41 @@
+/* .butn form {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.pads {
+    padding: 30px;
+}
+
+.flight {
+    background-color: rgb(88, 44, 79);
+    color: white;
+    padding: 5px;
+}
+
+.promo p {
+    color: rgb(88, 44, 79);
+    cursor: pointer;
+}
+
+.promo {
+    display: flex;
+    width: 50%;
+    gap: 33px;
+    justify-content: flex-end;
+}
+
+.booking_promo {
+    display: flex;
+}
+
+.butn {
+    width: 50%;
+}
+
+.input-box {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+} */
