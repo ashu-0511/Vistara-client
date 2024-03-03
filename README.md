@@ -1,4 +1,5 @@
 Vistara-clone using ReactJS
 
-<img width="1440" alt="Screenshot 2024-02-27 at 1 31 57 PM" src="https://github.com/ashu-0511/Vistara/assets/126855104/3011afcf-018d-4fa1-ab7d-75c4c21703cf">
+![Uploading Screenshot 2024-03-03 at 12.37.16 PM.png…]()
+
 # Vistara-client
